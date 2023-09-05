@@ -8,6 +8,11 @@ contains an Angular application where the code test will take place and the api 
 skeleton api with a single endpoint that returns subdivision data (See glossary). This test
 should take around 1- 2 hours. Please read all the way through this document before starting. 
 
+## Submitting
+Please create a new branch for your specific test. Name the branch in the format:
+iris-code-test-<yourname> so we can recognise your submittal. Once you have completed
+the test make sure all your code is pushed to your branch. 
+
 ### Api Setup
 
 To setup the api run the following:
