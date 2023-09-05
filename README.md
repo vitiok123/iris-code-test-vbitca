@@ -42,7 +42,8 @@ The test is broken down into three parts.
 The first part of this test requires you to retrieve the subdivision data from the api and display it in 
 the angular application. This can be displayed in any way you so choose and any third party libraries can
 be chosen to aid in this. You can see the structure of the subdivision data in the api/src/subdivision.json
-file. 
+file. Note: the data set contains around 1000 subdivisions so you may need to think about how that is 
+displayed (e.g pagination, infinite scrolling etc).
 
 ### Part 2
  Give the user the ability to filter the data based on subdivisionDataCode (This can be either Active, Future 
