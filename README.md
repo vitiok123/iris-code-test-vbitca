@@ -19,7 +19,7 @@ To setup the api run the following:
 
 Navigate to api folder: `cd iris-test-api`
 Install packages: `npm install`
-Run api: `node ./src/index.js`
+Run api: `npm run start`
 
 Check the api is up and running by using:
 `curl http://localhost:3000/v1/subdivisions`
